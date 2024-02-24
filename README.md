@@ -1,1 +1,1 @@
-Porjects aimed i've done to train at programming
+Projects i've done including competitive programming challenges and personal projects
